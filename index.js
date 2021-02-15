@@ -59,7 +59,7 @@ function promptUser() {
       }
 
 function generateREADME(answers) {
-  return `# ${answers.project_title}
+  return `# ${answers.title}
     
 #### Table of Contents
 1. [Project Description](#project-description)
