@@ -92,7 +92,7 @@ function generateREADME(answers) {
 * ${answers.test}
 
 ## License
-* licensed under the ${answers.license}
+* licensed under the ${answers.license} ![license https://img.shields.io/badge/license-MIT-yellow]
 
 ## Questions
 * For collaboration and questions, please reach out to ${answers.email}

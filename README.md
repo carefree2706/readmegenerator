@@ -1,4 +1,4 @@
-# Generating Readme 
+# Generate readme
     
 #### Table of Contents
 1. [Project Description](#project-description)
@@ -31,13 +31,13 @@
 * N/A
 
 ## License
-* licensed under the [MIT License](LICENSE.txt)
+* licensed under the [MIT License](LICENSE.txt) ![license https://img.shields.io/badge/license-MIT-yellow]
 
 ## Questions
 * For collaboration and questions, please reach out to carefree2706@gmail.com
 
-* Contact me via Github [carefree2706](http://github.com/carefree2706)
+* Contact me via Github [carefree2706@gmail.com](http://github.com/carefree2706@gmail.com)
 
 ## Video
 
-* The shortclip shows the user input and readme created (https://drive.google.com/file/d/11SUc5HLHiW2a2C1NcK_l5f_JqlYxEiXa/view?usp=sharing)
+* The shortclip shows the user input and readme created (https://drive.google.com/file/d/1-pEEdoazRZddp4tXyUduRkr2lfy9PELG/view?usp=sharing)
