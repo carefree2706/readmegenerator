@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "generator-license": "^5.4.0",
     "it": "^1.1.1",
     "license-key-generator": "^1.1.2"
   }

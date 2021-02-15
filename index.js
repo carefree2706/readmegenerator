@@ -42,7 +42,7 @@ function promptUser() {
             name: "license",
             choices: [
               "[MIT License](LICENSE.txt)", 
-              "[GNU GPLv3 License](COPYING.txt)", 
+            
             ]
           },
           {
@@ -72,6 +72,7 @@ function generateREADME(answers) {
 8. [Questions](#questions)
 
 
+
 ## Project Description
 * ${answers.description}
 
@@ -96,7 +97,12 @@ function generateREADME(answers) {
 ## Questions
 * For collaboration and questions, please reach out to ${answers.email}
 
-* Contact me via Github [${answers.github}](http://github.com/${answers.github})`;
+* Contact me via Github [${answers.github}](http://github.com/${answers.github})
+
+## Video
+
+* The shortclip shows the user input and readme created (https://drive.google.com/file/d/11SUc5HLHiW2a2C1NcK_l5f_JqlYxEiXa/view?usp=sharing)`;
+
 
 }
 
