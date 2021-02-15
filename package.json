@@ -1,0 +1,16 @@
+{
+  "name": "readmeGenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "it": "^1.1.1",
+    "license-key-generator": "^1.1.2"
+  }
+}
