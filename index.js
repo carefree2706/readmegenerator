@@ -101,7 +101,7 @@ function generateREADME(answers) {
 
 ## Video
 
-* The shortclip shows the user input and readme created (https://drive.google.com/file/d/11SUc5HLHiW2a2C1NcK_l5f_JqlYxEiXa/view?usp=sharing)`;
+* The shortclip shows the user input and readme created (https://drive.google.com/file/d/1-pEEdoazRZddp4tXyUduRkr2lfy9PELG/view?usp=sharing)`;
 
 
 }
