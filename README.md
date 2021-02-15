@@ -1,4 +1,4 @@
-# Generating Readme
+# Generating Readme 
     
 #### Table of Contents
 1. [Project Description](#project-description)
@@ -9,6 +9,7 @@
 6. [Test Instructions](#test-instructions)
 7. [License](#license)
 8. [Questions](#questions)
+
 
 
 ## Project Description
@@ -36,3 +37,7 @@
 * For collaboration and questions, please reach out to carefree2706@gmail.com
 
 * Contact me via Github [carefree2706](http://github.com/carefree2706)
+
+## Video
+
+* The shortclip shows the user input and readme created (https://drive.google.com/file/d/11SUc5HLHiW2a2C1NcK_l5f_JqlYxEiXa/view?usp=sharing)
