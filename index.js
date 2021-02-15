@@ -94,10 +94,10 @@ function generateREADME(answers) {
 * licensed under the ${answers.license}
 
 ## Questions
-* For additional help or questions about collaboration, please reach out to ${answers.email}
+* For collaboration and questions, please reach out to ${answers.email}
 
-* Follow me on Github at [${answers.github}](http://github.com/${answers.github})`;
-  
+* Contact me via Github [${answers.github}](http://github.com/${answers.github})`;
+
 }
 
 promptUser()
