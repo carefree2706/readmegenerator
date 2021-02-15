@@ -12,27 +12,27 @@
 
 
 ## Project Description
-* u
+* 
 
 ## Installation Instructions
-* u
+* 
 
 ## Usage Information
-* u
+* 
 
 ## Contributor Guidelines
-* u
+* 
 
 ## Code of Conduct
 * [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
 
 ## Test Instructions
-* u
+* 
 
 ## License
-* licensed under the [MIT License](LICENSE.txt)
+* licensed under the 
 
 ## Questions
-* For additional help or questions about collaboration, please reach out to y
+* For additional help or questions about collaboration, please reach out to 
 
-* Follow me on Github at [y](http://github.com/y)
+* Follow me on Github at [](http://github.com/)
