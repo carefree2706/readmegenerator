@@ -1,4 +1,4 @@
-# generate
+# Generating Readme
     
 #### Table of Contents
 1. [Project Description](#project-description)
@@ -12,27 +12,27 @@
 
 
 ## Project Description
-* generate
+* Using the command line application to create a readme.md file from the user's input.
 
 ## Installation Instructions
-* 
+* installtion of npm init.
 
 ## Usage Information
-* generate
+* Generating readme
 
 ## Contributor Guidelines
-* generate
+* Under the code of conduct section
 
 ## Code of Conduct
 * [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
 
 ## Test Instructions
-* generate
+* N/A
 
 ## License
-* licensed under the 
+* licensed under the [MIT License](LICENSE.txt)
 
 ## Questions
-* For additional help or questions about collaboration, please reach out to generate
+* For collaboration and questions, please reach out to carefree2706@gmail.com
 
-* Follow me on Github at [](http://github.com/)
+* Contact me via Github [carefree2706](http://github.com/carefree2706)
