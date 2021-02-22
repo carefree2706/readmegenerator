@@ -1,4 +1,4 @@
-# Generate readme
+# Generate team profile
     
 #### Table of Contents
 1. [Project Description](#project-description)
